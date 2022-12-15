@@ -1,0 +1,33 @@
+<staff>
+    <employee>
+        <id>1</id>
+        <firstName>John</firstName>
+        <lastName>Smith</lastName>
+        <country>USA</country>
+        <age>25</age>
+    </employee>
+
+    <employee>
+        <id>2</id>
+        <firstName>Ivan</firstName>
+        <lastName>Petrov</lastName>
+        <country>RU</country>
+        <age>23</age>
+    </employee>
+
+    <employee>
+        <id>3</id>
+        <firstName>David</firstName>
+        <lastName>Tenant</lastName>
+        <country>UK</country>
+        <age>45</age>
+    </employee>
+
+    <employee>
+        <id>4</id>
+        <firstName>Math</firstName>
+        <lastName>Smith</lastName>
+        <country>UK</country>
+        <age>38</age>
+    </employee>
+</staff>
